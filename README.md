@@ -2,7 +2,7 @@
 
 I’m a passionate Frontend Developer who loves building clean, responsive, and user-friendly web interfaces. I enjoy turning designs into interactive experiences and paying attention to the small details that make a product feel polished.
 
-![Nova's Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Nova's Stats](https://github-readme-stats.vercel.app/api?username=vaezara&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
