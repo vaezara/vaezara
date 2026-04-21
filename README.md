@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Nova! 👋
 
-<!--
-**vaezara/vaezara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate Frontend Developer who loves building clean, responsive, and user-friendly web interfaces. I enjoy turning designs into interactive experiences and paying attention to the small details that make a product feel polished.
 
-Here are some ideas to get you started:
+![Nova's Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+🎨 Focused on Frontend Development  
+⚛️ Building modern web apps using React (Next.js)  
+
+💡 Passionate about:
+- UI/UX design  
+- Component-based architecture  
+- Responsive & accessible design  
+
+🧠 I enjoy debugging UI issues and optimizing performance  
+
+---
+
+## Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,laravel,tailwind,firebase,git)](https://skillicons.dev)
+
+---
+
+## 🌱 Currently Exploring
+
+- ⚛️ Advanced React & Next.js patterns  
+- 🎯 Improving UI/UX and design systems  
+- ⚡ Frontend performance optimization  
+- 🧩 Reusable and scalable component architecture  
+- 🔐 Authentication flow with NextAuth & Firebase  
+
+---
+
+Thanks for stopping by! Let's build something awesome 🚀
